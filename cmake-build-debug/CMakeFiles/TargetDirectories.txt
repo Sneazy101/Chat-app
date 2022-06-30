@@ -1,0 +1,3 @@
+/home/supersneazy/Desktop/clean/code/CMPT 300/fresh/cmake-build-debug/CMakeFiles/fresh.dir
+/home/supersneazy/Desktop/clean/code/CMPT 300/fresh/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/supersneazy/Desktop/clean/code/CMPT 300/fresh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
